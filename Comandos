@@ -1,0 +1,1 @@
+Comandos para correr el script con una imagen: python -m scripts.label_image     --graph=tf_files/retrained_graph.pb      --image='/home/peeko/Desktop/nopal.jpg'
